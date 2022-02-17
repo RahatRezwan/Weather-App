@@ -11,3 +11,4 @@
 Before that you must have node.js install on your pc.
 
 Now you are ready to run this software using 'node app.js' command
+Finally after run the server open your browser and search for 'localhost:5000'
